@@ -8,3 +8,6 @@ All notable changes to docker-security-audit will be documented in this file.
 ## [0.1.1] - 2025-10-03
 - feat: audit container capabilities, root execution, and host namespace sharing
 
+## [0.1.2] - 2025-10-04
+- feat: check seccomp profiles and apparmor confinement status
+
