@@ -11,3 +11,6 @@ All notable changes to docker-security-audit will be documented in this file.
 ## [0.1.2] - 2025-10-04
 - feat: check seccomp profiles and apparmor confinement status
 
+## [0.1.3] - 2025-10-07
+- style: generate markdown summary report with remediation advice
+
